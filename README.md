@@ -1,4 +1,4 @@
-### Oiii! Eu sou a Bárbara Barros
+### Oiii! Eu sou a Bárbara
 
 - 🤔 Em fase de aprendizagem
 - ⚡ Atualmente focando em aprender HTML 5, CSS 3 e JavaScript
