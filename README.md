@@ -1,7 +1,7 @@
 ### Oiii! Eu sou a Bárbara
 
 - 🤔 Em fase de aprendizagem
-- ⚡ Atualmente focando em aprender HTML 5, CSS 3 e JavaScript
+- ⚡ Atualmente focando em aprender HTML, CSS e JavaScript
 - 😄 Meus pronomes são ela/dela
 
 <div align="center">
